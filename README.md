@@ -1,1 +1,1 @@
-![Image of Win](/images/win.png)
+<img src = “/images/win.png” width = 500px>
