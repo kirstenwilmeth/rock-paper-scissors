@@ -1,1 +1,1 @@
-<img src = “/images/win.png” width = 500px>
+<img src="/images/Win.png" width="500px">
